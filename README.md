@@ -1,5 +1,9 @@
 # Sample BGP/MLAG/Varp Playbook
 
+
+Toplogy:
+![Alt text](http://i.imgur.com/mZa8si4.png "Arista / Ansible")
+
 This playbook requires the arista.eos role version v1.2.0 and pyeapi v0.4.0
 
 Install the needed roles by creating a text file:
